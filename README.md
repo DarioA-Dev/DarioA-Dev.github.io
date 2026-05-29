@@ -23,7 +23,7 @@ Este repositorio contiene mi portfolio personal — una SPA construida a mano si
 ### Stack del portfolio
 - HTML5, CSS3, JavaScript Vanilla puro — sin React, sin Vue, sin Bootstrap
 - Tipografías: **Syne** (headings) + **Manrope** (body) vía Google Fonts
-- Iconos: SVG inline — sin librerías externas
+- Iconos: SVG inline, sin librerías externas
 - Animaciones: `IntersectionObserver`, `requestAnimationFrame`, morphing CSS
 - Diseño: estética editorial arquitectónica, paleta hueso/tierra, mobile-first desde 375px
 
